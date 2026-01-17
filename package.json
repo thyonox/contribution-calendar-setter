@@ -1,0 +1,27 @@
+{
+  "name": "ccs",
+  "version": "1.0.0",
+  "description": "This is a tool to modify the contribution calendar.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thyonix/CCS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Thyonix/CCS/issues"
+  },
+  "homepage": "https://github.com/Thyonix/CCS#readme",
+  "dependencies": {
+    "jsonfile": "^6.1.0",
+    "moment": "^2.30.1",
+    "random": "^5.3.0",
+    "simple-git": "^3.27.0"
+  }
+}
